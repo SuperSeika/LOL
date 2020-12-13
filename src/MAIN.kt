@@ -1,8 +1,8 @@
 fun main()
 {
-    var p = 1
-    var o = 1
-    var i = 1
+    var p = 2
+    var o = 2
+    var i = 2
     println(i)
     println(o)
     println(p)
